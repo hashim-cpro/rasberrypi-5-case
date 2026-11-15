@@ -38,7 +38,7 @@ This project features a custom-designed Raspberry Pi 5 case that provides full I
 
 ## Bill of Materials (BOM)
 
-To build and assemble this project, you only need to **3D print the custom parts** and mount it. I don't have a 2d printer otherwise i would have stated the print settings as well.
+To build and assemble this project, you only need to **3D print the custom parts** and mount it. I don't have a 3D printer otherwise i would have stated the print settings as well.
 
 ## Project Structure
 
